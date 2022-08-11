@@ -4,8 +4,17 @@
     border: solid black;
     justify-content: center;
     align-content: center;
-    background-color: aquamarine;
+    background-color: rgb(168, 238, 215);
     height: 100px;
     text-align: center;
     font-size: 50px;   
 }
+
+.counter{
+    margin-top: 50px;
+}
+
+body{
+    background-color: rgb(132, 114, 145);
+};
+
